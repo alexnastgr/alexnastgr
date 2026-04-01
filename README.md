@@ -1,8 +1,14 @@
-# About
+# Whoami
 
 👋 Hey, my name is Alexander Anastasiadis.
 
 I’m a software engineer and photographer based in Athens 🇬🇷. <br/>Enjoying combining technologies and tools to create solutions for real-world problems. <br/> I love to traveling, taking photos and making things with wood and metal.
+
+## Some facts
+
+- 🦈 I like sharks
+- 🐿️ I am currently learning Go
+- ☕️ I am addicted to coffee
 
 ## Familiarity
 
