@@ -17,6 +17,6 @@
 
 ### Entire Stack Flow
 
-![](https://www.badgify.dev/api/icons?icons=typescript,react,nextjs,redux,node,express,vite,vercel&background=696969&size=18&style=rounded&radius=5&iconColor=FFAB00&gap=3&padding=4)
+![](https://www.badgify.dev/api/icons?icons=typescript,react,nextjs,redux,node,express,vite,vercel&background=696969&size=18&style=rounded&radius=5&iconColor=FFAB00&gap=3&padding=4)<br/>
 ![](https://www.badgify.dev/api/icons?icons=mysql,wordpress,php,laravel,livewire,docker,git,astro&background=696969&size=18&style=rounded&radius=5&iconColor=FFAB00&gap=3&padding=4)
 
